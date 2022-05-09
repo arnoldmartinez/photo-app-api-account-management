@@ -11,5 +11,4 @@ public class PhotoAppApiAccountManagementApplication {
     public static void main(String[] args) {
         SpringApplication.run(PhotoAppApiAccountManagementApplication.class, args);
     }
-
 }
