@@ -6,4 +6,4 @@ https://www.udemy.com/course/spring-boot-microservices-and-spring-cloud/learn/le
 First I recomend to run the eureka server, here this the project with their configuration.
 
 
-- Eureka discovery server (https://github.com/arnoldmartinez/photo-app-discovery-service/blob/master/README.md)
+- Eureka discovery server (https://github.com/arnoldmartinez/photo-app-discovery-service)
